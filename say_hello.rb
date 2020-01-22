@@ -4,4 +4,5 @@ def say_hello (name="Gabriela")
   put "Hello, #{name}"
 end
 
+greeting("Kent Beck")
 greeting("")
