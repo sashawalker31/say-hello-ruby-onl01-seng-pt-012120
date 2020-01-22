@@ -4,5 +4,5 @@ def say_hello (name="Gabriela")
   put "Hello, #{name}"
 end
 
-greeting
-greeting("Kent Beck")
+say_hello
+say_hello("Kent Beck")
